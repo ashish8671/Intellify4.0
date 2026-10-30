@@ -1,0 +1,34 @@
+{
+  "Crack": {
+    "repairMethod": "Epoxy Injection",
+    "priority": "High",
+    "estimatedTime": "2 Days",
+    "estimatedCost": "₹4,500",
+    "material": "Epoxy Resin",
+    "description": "Inject epoxy resin into the crack to restore structural strength and prevent water ingress.",
+    "inspectionRequired": "Yes",
+    "engineerApproval": "Required"
+  },
+
+  "Spalling": {
+    "repairMethod": "Concrete Patching",
+    "priority": "Medium",
+    "estimatedTime": "3 Days",
+    "estimatedCost": "₹6,500",
+    "material": "Polymer Modified Mortar",
+    "description": "Remove loose concrete, clean reinforcement, apply bonding agent and patch with repair mortar.",
+    "inspectionRequired": "Yes",
+    "engineerApproval": "Required"
+  },
+
+  "Corrosion": {
+    "repairMethod": "Steel Treatment",
+    "priority": "Low",
+    "estimatedTime": "5 Days",
+    "estimatedCost": "₹8,000",
+    "material": "Anti-Corrosion Coating",
+    "description": "Clean rusted reinforcement bars, apply anti-corrosion coating and restore concrete cover.",
+    "inspectionRequired": "Recommended",
+    "engineerApproval": "Optional"
+  }
+}

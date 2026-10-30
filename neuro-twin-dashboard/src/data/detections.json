@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "label": "Crack",
+    "confidence": 97,
+    "severity": "High",
+    "color": "#ef4444",
+    "x": 12,
+    "y": 18,
+    "width": 18,
+    "height": 14
+  },
+  {
+    "id": 2,
+    "label": "Spalling",
+    "confidence": 92,
+    "severity": "Medium",
+    "color": "#facc15",
+    "x": 70,
+    "y": 65,
+    "width": 15,
+    "height": 12
+  },
+  {
+    "id": 3,
+    "label": "Corrosion",
+    "confidence": 89,
+    "severity": "Low",
+    "color": "#22c55e",
+    "x": 42,
+    "y": 42,
+    "width": 12,
+    "height": 10
+  }
+]

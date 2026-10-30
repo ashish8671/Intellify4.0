@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# Zip files
+*.zip
+
+# Logs
+*.log
+
+# Large ML files
+*.pt
+*.pth
+*.onnx
+*.h5
+*.weights
+
+venv/
+.venv/
+env/
+wsl-venv/
+**/venv/
+**/.venv/
+**/wsl-venv/
